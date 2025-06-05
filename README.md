@@ -6,7 +6,7 @@ Profile stuff
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa-isha&label=Profile%20views&color=0e75b6&style=flat" alt="fatima-furqan" /> </p>
 
-- I’m currently learning **Computer Studies** :)
+- I’m currently learning **Computer Sciences** :)
 
 - Fulltime student :(
 
