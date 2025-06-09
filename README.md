@@ -10,7 +10,7 @@ Profile stuff
 
 - Fulltime student :(
 
-- I am a part-time digital artist on Instagram and a wed developer on Github ^_^
+- I am a part-time digital artist on Instagram and a web developer on Github ^_^
 
 - I always hoot for Real Madrid
 
