@@ -9,7 +9,7 @@ Profile stuff
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="fatima-furqan" />
 </p>
 
-- I’m currently learning **a highdchooler in pre-engineering stream** :)
+- I’m currently **a highschooler in pre-engineering stream** :)
 
 - Fulltime student :(
 
