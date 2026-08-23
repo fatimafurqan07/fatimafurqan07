@@ -9,13 +9,13 @@ Profile stuff
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="fatima-furqan" />
 </p>
 
-- I’m currently learning **Computer Sciences** :)
+- I’m currently learning **a highdchooler in pre-engineering stream** :)
 
 - Fulltime student :(
 
 - I am a part-time digital artist on Instagram and a web developer on Github ^_^
 
-- I always hoot for Real Madrid!
+- I'm always behind my sleep schedule haha 
 
 - The Id in many of my repositories called "FatimaFurqancodes117" is another id of mine through which I can push repositories from my vscode.
 
